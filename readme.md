@@ -7,4 +7,4 @@
 
 Url: https://stopyransky.github.io/wdvp
 
-For sources pleases see: https://github.com/stopyransky/wdvp-eye
+For sources please see: https://github.com/stopyransky/wdvp-eye
